@@ -95,7 +95,7 @@
     <section>
       <h2>Me suivre</h2>
       <p>Pour ne rien rater de mes publications ou événements à venir, suivez-moi sur Instagram :</p>
-      <p><a href="https://www.instagram.com/" target="_blank">@ilane.r.madzo</a></p>
+      <p><a href="https://www.instagram.com/" target="_blank">@ilane_kg</a></p>
     </section>
 
     <section>
